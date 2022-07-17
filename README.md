@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O food-website é um exemplo de site de fast food com um design bem elaborado. 🥙
+O SmartStudy é um exemplo de site de curso com um design bem elaborado. 🥙
 ## Icones
 
 - :package: nova funcionalidade
