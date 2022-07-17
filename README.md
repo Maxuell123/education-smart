@@ -1,4 +1,4 @@
-# SmartStudy
+# SmartStudy 📚
  Website Education
 
  
